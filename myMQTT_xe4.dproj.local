@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.877,D:\control\mqtt_delphi\uMyMQTTReadThread.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.726,=D:\control\mqtt_delphi\uMyMQTTReadThread.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.423,D:\control\mqtt_delphi\uMQTT.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.711,=D:\control\mqtt_delphi\uMyMQTTComps.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.695,=D:\control\mqtt_delphi\uMQTT.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.511,D:\control\mqtt_delphi\uMyMQTTReadThread.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.699,=IndyProtocols.dcp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.274,Z:\control\mqtt_delphi_snaypse\myMQTT.dproj=Z:\control\mqtt_delphi_snaypse\myMQTT_xe4.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.681,=fmx.dcp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.660,=D:\control\mqtt_delphi\uMyMQTTReadThread.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.471,=D:\control\mqtt_delphi\uMyMQTTReadThread.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.314,D:\control\mqtt_delphi\uSimpleThreadTimer.pas=D:\control\mqtt_delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.070,C:\Users\wind\Documents\Embarcadero\Studio\Projects\Package1.dproj=D:\control\mqtt_delphi\mqtt_indy.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.178,=D:\control\mqtt_delphi\uThreadTimer.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.487,=IndyCore.dcp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.985,=D:\control\mqtt_delphi\uMyMQTT.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.151,D:\control\mqtt_delphi_snaypse\myMQTT.dproj=D:\control\mqtt_delphi_snaypse\mqtt_indy.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.514,=D:\control\mqtt_delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.845,=Z:\control\mycontrols\mqtt_delphi_snaypse\uSimpleThreadTimer.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.322,D:\control\mqtt_delphi\uSimpleThreadTimer.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.471,=IndySystem.dcp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.802,=rtl.dcp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.726,=rtl.dcp</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
